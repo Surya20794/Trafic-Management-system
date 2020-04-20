@@ -1,9 +1,4 @@
-# McKinsey-SmartCities-Traffic-Prediction
-Adventure into using NN for time-series for the 20171118 McKinsey IronMan (24h non-stop) prediction challenge
-
-
-This was a code I created without sleeping for the following challenge: https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-hackathon/
-
+# SmartCities-Traffic-Prediction
 
 # Problem statement
 
